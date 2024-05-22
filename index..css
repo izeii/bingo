@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+table, th, td {
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+button {
+border-color: white;
+background-color: grey;
+}
